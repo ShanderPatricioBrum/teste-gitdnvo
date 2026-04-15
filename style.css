@@ -1,4 +1,14 @@
 body{
-background-image: linear-gradient(black,grey);
+background-image: url(images.webp);
 background-attachment: fixed;
+
+}
+
+.t1{
+    text-align: center;
+}
+p{
+    text-align: justify;
+    text-align: center;
+    color: yellow;
 }
